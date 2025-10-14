@@ -1,6 +1,6 @@
 <h1 align="center">Notes</h1>
 
-<p align="center"><a href="https://www.pinterestlabs.com/"><img src=".Plabs.jpg"></img></a></p>
+<p align="center"><a href="https://www.pinterestlabs.com/"><img src="Plabs.jpg"></img></a></p>
 
 ## Description:
 **Learning Reliable Rewards for LLMs via RLHF: Robustness, Adaptivity and [Beyond](https://pages.beamery.com/Pinterest/page/october-pinterest-labs-talk-series-featuring-tuo-zhao-7zjueht0_z)**: Learning from human preferences is central to aligning large language models. This talk presents a three‑step progression that addresses core challenges and points toward the future of RLHF. 3 Models: Bradley–Terry–Luce (BTL), adaptive preference scaling, generative reward models (GRMs).
